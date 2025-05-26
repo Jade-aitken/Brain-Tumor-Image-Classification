@@ -1,0 +1,6 @@
+/Training/
+/Testing/
+/Preprocessed/
+/__pycache__/
+/*.h5
+*.zip
