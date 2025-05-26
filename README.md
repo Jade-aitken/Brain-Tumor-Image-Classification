@@ -1,5 +1,8 @@
 # Brain-Tumor-Image-Classification using CNN (AlexNet)
 
+### you can download the full file here:
+https://drive.google.com/drive/folders/1ICxP1-BiSH2u-4VCgk2yA59O0l09EsMu?usp=sharing 
+
 ## 📌 Project Overview
 
 This project focuses on building a **Convolutional Neural Network (CNN)** from scratch using the **AlexNet architecture** to classify brain tumors in MRI images. The model is designed for **multiclass classification**, distinguishing between different types of brain tumors using medical image data.
